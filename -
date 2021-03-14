@@ -1,0 +1,3 @@
+a = int(input(print("base number : ")))
+b = int(input(print("exponent number : ")))
+print("output:  ", a ** b)
